@@ -19,7 +19,7 @@ Hello there! 👋 I'm Mauli
 ![PowerBI](https://img.shields.io/badge/PowerBI-F05032?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 ## 🚀 Top Data Projects
-[![Crop Production Analysis](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=crop-production-analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/crop-production-analysis)
+[![Crop Production Analysis](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=crop-production-analysis&border_color=ffffff&bg_color=0D1110&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/crop-production-analysis)
 [![Pizza Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=pizza-sales-analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/pizza-sales-analysis )
 [![Diabetics Health Data Prediction](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=diabetes-health-data-prediction&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/diabetes-health-data-prediction)
 
