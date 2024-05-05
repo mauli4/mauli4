@@ -21,7 +21,7 @@ Hello there! 👋 I'm Mauli
 ## 🚀 Top Data Projects
 [![Crop Production Analysis](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=crop-production-analysis&border_color=ffffff&bg_color=FFFFFF&title_color=000000&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/crop-production-analysis)
 [![Pizza Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=pizza-sales-analysis&border_color=ffffff&bg_color=FFFFFF&title_color=000000&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/pizza-sales-analysis )
-[![Diabetics Health Data Prediction](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=diabetes-health-data-prediction&border_color=ffffff&bg_color=FFFFFF&title_color=000000&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/diabetes-health-data-prediction)
+[![Diabetics Health Data Prediction](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=diabetes-health-data-analysis&border_color=ffffff&bg_color=FFFFFF&title_color=000000&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/diabetes-health-data-analysis)
 
 <p align="left">
   <a href="https://github.com/mauli4?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
