@@ -1,6 +1,6 @@
 Hello there! 👋 I'm Mauli
 
-🚀 **About Me:**
+## 🚀 About Me:
  
  🔍 Passionate about exploring New Technologies
   
@@ -10,10 +10,16 @@ Hello there! 👋 I'm Mauli
   
   📚 Interested in doing Insights
     
-🛠️ **Projects Portfolio:**
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F05032?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 
-🌐 **Connect with Me:**
+## 🌐 Connect with Me:
 
   📧 Email: 4maulishah12345@gmail.com
   
