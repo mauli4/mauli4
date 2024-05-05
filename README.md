@@ -9,16 +9,16 @@ Hello there! 👋 I'm Mauli
   💞️ I’m looking to collaborate on Data Analytics,Business Analytics,Market Research Analytics
   
   📚 Interested in doing Insights
-  
+    
+🛠️ Projects
+
+
 🌐 Connect with Me
-  
-  LinkedIn
-  
-  🛠️ Projects
 
-
-  🤝 Open to Collaboration
-  
   📧 Reach me at: 4maulishah12345@gmail.com
   
+  💻 LinkedIn: https://www.linkedin.com/in/mauli-shah-b52109211/
+  
+🤝 Open to Collaboration
+
  Let's build something amazing together! 🚀
