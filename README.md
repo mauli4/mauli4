@@ -13,7 +13,7 @@ Hello there! 👋 I'm Mauli
 🛠️ **Projects Portfolio:**
 
 
-🌐 **Connect with Me**
+🌐 **Connect with Me:**
 
   📧 Email: 4maulishah12345@gmail.com
   
