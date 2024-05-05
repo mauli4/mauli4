@@ -4,7 +4,7 @@ Hello there! 👋 I'm Mauli
  
  🔍 Passionate about exploring New Technologies
   
- 🌱 Currently learning SQL,Python,Power BI,Advanced Excel
+ 🌱 Currently learning SQL,Python,Power BI,Advanced Excel, Jupyter
   
   💞️ I’m looking to collaborate on Data Analytics,Business Analytics,Market Research Analytics
   
