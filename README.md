@@ -10,7 +10,7 @@ Hello there! 👋 I'm Mauli
   
   📚 Interested in doing Insights
     
-🛠️ **Projects:**
+🛠️ **Projects Portfolio:**
 
 
 🌐 **Connect with Me**
