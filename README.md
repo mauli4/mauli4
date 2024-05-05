@@ -1,6 +1,6 @@
 Hello there! 👋 I'm Mauli
 
-🚀 About Me
+🚀 **About Me:**
  
  🔍 Passionate about exploring New Technologies
   
@@ -10,10 +10,10 @@ Hello there! 👋 I'm Mauli
   
   📚 Interested in doing Insights
     
-🛠️ Projects
+🛠️ **Projects:**
 
 
-🌐 Connect with Me
+🌐 **Connect with Me**
 
   📧 Email: 4maulishah12345@gmail.com
   
