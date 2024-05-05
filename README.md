@@ -24,7 +24,7 @@ Hello there! 👋 I'm Mauli
 [![Diabetics Health Data Prediction](https://github-readme-stats.vercel.app/api/pin/?username=mauli4&repo=Spotify-Excel-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mauli4/diabetes-health-data-prediction)
 
 <p align="left">
-  <a href="https://github.com/karlyndiary?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/mauli4?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🌐 Connect with Me:
