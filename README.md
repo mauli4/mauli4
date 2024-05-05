@@ -21,9 +21,8 @@ Hello there! 👋 I'm Mauli
 
 ## 🌐 Connect with Me:
 
-  📧 Email: 4maulishah12345@gmail.com
-  
-  💻 LinkedIn: https://www.linkedin.com/in/mauli-shah-b52109211/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauli-shah-b52109211/)
+
   
 🤝 Open to Collaboration
 
